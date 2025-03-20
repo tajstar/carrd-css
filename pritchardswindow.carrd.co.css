@@ -1,2 +1,6 @@
-/* Add your CSS for this Carrd site here */
+ /* Add your CSS for this Carrd site here */
+
+body {
+  border:solid 1px red;
+}
 
