@@ -2,5 +2,8 @@
 
 body {
   border:solid 1px red;
+  
+  p { 
+  color: blue;
 }
 
