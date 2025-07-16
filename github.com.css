@@ -1,0 +1,26 @@
+/* Add your custom CSS here */
+body {
+    /* Example: Change background color */
+    background-color: #f0f0f0;
+}
+
+/* Example: Style headings */
+h1, h2, h3 {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Example: Button styling */
+.button {
+    background-color: #007acc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #005fa3;
+}
