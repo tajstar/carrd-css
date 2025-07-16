@@ -3,7 +3,7 @@
 body {
   border:solid 1px red;
   
-  p { 
-  color: blue;
+h1.style2, h2.style2, h3.style2, p.style2 {
+color:red !important;
 }
 
