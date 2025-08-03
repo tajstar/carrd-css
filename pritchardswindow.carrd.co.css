@@ -4,3 +4,6 @@ body {
   border:solid 1px red;
 }
 
+h2#text01 {
+  color: red !important;
+}
